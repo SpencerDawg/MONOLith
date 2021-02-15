@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "adBeGtPclzWvF5tM0HwG5+1tfckNjJwLpbZVYi+/xGzbkUroen39AXpGx69rzmJnhVKhiKumeP7utIGjoguP2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dreit\\Desktop\\programs\\Development\\MONOLith\\MONOLith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dreit\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\dreit\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
